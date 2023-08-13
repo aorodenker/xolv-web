@@ -1,9 +1,11 @@
 import Nav from './components/Nav';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
-    <div className="App">
+    <div>
       <Nav />
+      <Footer />
     </div>
   );
 }
