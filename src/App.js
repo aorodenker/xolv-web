@@ -1,7 +1,9 @@
+import Nav from './components/Nav';
+
 const App = () => {
   return (
     <div className="App">
-      Xolv
+      <Nav />
     </div>
   );
 }
